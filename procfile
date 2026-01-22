@@ -1,2 +1,2 @@
 
-web: gunicorn afcon_dashboard:server
+web: gunicorn afcon_dashb:server
